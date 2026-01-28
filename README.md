@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22414896)
 # BlackJackWithArrays
 
 This activity will be completed in lecture in a group of 3 students, you will get points by working with your group on this activity.
